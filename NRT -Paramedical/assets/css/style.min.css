@@ -2037,12 +2037,14 @@ lg {
 
 .courses-wrapper .courses-col:nth-child(8n+6) .single-courses,
 .courses-wrapper .courses-col:nth-child(8n+6) .single-courses-2 {
-    background-color: #d94da6
+    background-color: #d94da6;
+    height:407px;
 }
 
 .courses-wrapper .courses-col:nth-child(8n+6) .single-courses .courses-content .duration-rating,
 .courses-wrapper .courses-col:nth-child(8n+6) .single-courses-2 .courses-content .duration-rating {
-    background-color: #d94da6
+    background-color: #d94da6;
+   
 }
 
 .courses-wrapper .courses-col:nth-child(8n+7) .single-courses,
